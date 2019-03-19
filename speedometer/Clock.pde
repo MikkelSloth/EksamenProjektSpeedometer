@@ -3,6 +3,9 @@ class Clock  {
   Clock()  {
   }
   
+  
+  //god kode
+  
   void getTime()  {
     h = hour();
     m = minute();
